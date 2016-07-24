@@ -1,0 +1,5 @@
+C:\Div\Origin\74-Virtual-Casting\VirtualCasting\bin\Debug\VirtualCasting.exe.config
+C:\Div\Origin\74-Virtual-Casting\VirtualCasting\bin\Debug\VirtualCasting.exe
+C:\Div\Origin\74-Virtual-Casting\VirtualCasting\bin\Debug\VirtualCasting.pdb
+C:\Div\Origin\74-Virtual-Casting\VirtualCasting\obj\Debug\VirtualCasting.exe
+C:\Div\Origin\74-Virtual-Casting\VirtualCasting\obj\Debug\VirtualCasting.pdb
